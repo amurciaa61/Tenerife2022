@@ -1,0 +1,7 @@
+h1 {text-align: center;}
+body{
+    background-color: lightblue;
+}
+iframe {margin: 0 100;
+}
+.volver {background-color: aqua; border: 1px solid blue; padding: 5px; margin-bottom: 5px; border-radius: 5px;}
